@@ -1,1 +1,1 @@
-"# react-firebase" 
+# react-boilerplate-redux
